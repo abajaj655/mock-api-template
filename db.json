@@ -9,6 +9,56 @@
       "publisher": "Bloomsbury",
       "cost": 1299,
       "borrowed": false
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "IronMan",
+      "author": "Stan Lee",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Marvel",
+      "cost": 1299,
+      "borrowed": false
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Shark Tank",
+      "author": "Vipul Goyal",
+      "genre": "business",
+      "edition": "2022",
+      "publisher": "Sony",
+      "cost": 2299,
+      "borrowed": true
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Ramayana",
+      "author": "Tulsi Das",
+      "genre": "business",
+      "edition": "2022",
+      "publisher": "Ramanand Sagar",
+      "cost": 9299,
+      "borrowed": false
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Robot",
+      "author": "RajniKant",
+      "genre": "Science",
+      "edition": "2020",
+      "publisher": "YRF",
+      "cost": 299,
+      "borrowed": false
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Web Development",
+      "author": "Prateek Shukla",
+      "genre": "tech",
+      "edition": "2020",
+      "publisher": "Masai School",
+      "cost": 3299,
+      "borrowed": true
     }
   ]
 }
